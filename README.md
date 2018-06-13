@@ -3,5 +3,5 @@ A very simple to-do list application, to learn the very basics of React using cr
 Once you have cloned the project run
 ```
 npm install
-npm stat
+npm start
 ```
